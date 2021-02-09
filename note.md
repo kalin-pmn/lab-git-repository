@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-his
 https://www.git-tower.com/blog/command-line-cheat-sheet/
 
 https://github.com/napatwongchr/intro-to-git
+
+:Q quite
